@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/litterbox/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/litterbox/static/js/main.2b66e243.chunk.js",
+    "main.js.map": "/litterbox/static/js/main.2b66e243.chunk.js.map",
+    "runtime-main.js": "/litterbox/static/js/runtime-main.54b487fb.js",
+    "runtime-main.js.map": "/litterbox/static/js/runtime-main.54b487fb.js.map",
+    "static/js/2.1c982ba8.chunk.js": "/litterbox/static/js/2.1c982ba8.chunk.js",
+    "static/js/2.1c982ba8.chunk.js.map": "/litterbox/static/js/2.1c982ba8.chunk.js.map",
+    "static/js/3.b980677b.chunk.js": "/litterbox/static/js/3.b980677b.chunk.js",
+    "static/js/3.b980677b.chunk.js.map": "/litterbox/static/js/3.b980677b.chunk.js.map",
+    "index.html": "/litterbox/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/litterbox/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1c982ba8.chunk.js.LICENSE.txt": "/litterbox/static/js/2.1c982ba8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/litterbox/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b487fb.js",
+    "static/js/2.1c982ba8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2b66e243.chunk.js"
+  ]
+}
